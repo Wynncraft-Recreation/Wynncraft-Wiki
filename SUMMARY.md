@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Wynncraft Wiki](README.md)
-* [What is new?](what-is-new.md)
 * [What is this?](what-is-this.md)
+* [What is new?](what-is-new.md)
 * [Getting Started](getting-started/README.md)
   * [Available Commands](getting-started/available-commands.md)
   * [Features](getting-started/features.md)
